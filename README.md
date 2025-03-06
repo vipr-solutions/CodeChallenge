@@ -1,4 +1,4 @@
-# VIPR Code Challenge (Gradutate / Junior)
+# VIPR Code Challenge (Graduate / Junior)
 ## TV & Movie Review API & Frontend Viewer  
 
 Welcome to the **VIPR Code Challenge**! Your task is to develop **Mogul**, a simple TV & movie review application consisting of:  
