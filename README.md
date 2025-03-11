@@ -30,7 +30,7 @@ This repository provides a starter **API** and **Unit Test** project. The API fo
 
 ## 🚀 Getting Started  
 
-1. **Fork** this repository to your **public GitHub** account  
+1. Do not **Fork** this repository, use the **Create Template** button and create a new repository within your **public GitHub** account  
 2. Install:  
    - [VS Code](https://code.visualstudio.com/)  
    - [C# Dev Kit Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)  
