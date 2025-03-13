@@ -61,7 +61,7 @@ Once you've completed the challenge:
    - What challenges did you face?  
    - What would you improve if this were a real product?  
 2. **Email** the link to your forked repository to:  
-   📧 **dotnet[at]viprsolutions.com**  
+   📧 **coders[at]viprsolutions.com**  
 
 ---
 
